@@ -1,0 +1,2 @@
+# XRay_CNN
+Implementing a CNN model to classify the data between Normal_XRay images and Covid_XRay images
